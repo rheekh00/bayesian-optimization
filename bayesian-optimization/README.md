@@ -1,7 +1,11 @@
 
 # Bayesian Optimization을 이용한 스마트 팩토리 장비 배치 최적화
 
-이 레포지토리는 Digital Twin(DT) 플랫폼을 기반으로 스마트 팩토리 환경에서 장비 배치를 최적화하는 연구와 구현 내용을 담고 있습니다. NVIDIA Omniverse Isaac Sim을 활용해 고품질 시뮬레이션을 수행했으며, Bayesian Optimization(BO)을 통해 작업 시간(takt time)을 획기적으로 단축하고 생산성을 향상시켰습니다. 2023 한국CDE 동계학술대회에서 연구의 가치를 인정받아 우수 포스터상을 수상하였습니다.
+이 레포지토리는 Digital Twin(DT) 플랫폼을 기반으로 Smart Factory 환경에서 장비 배치를 최적화하는 연구와 구현 내용을 담고 있습니다. 
+
+NVIDIA Omniverse Isaac Sim을 활용해 실제 서울대학교 313동 114호에 위치한 demo factory를 Digital Twin 환경에 구현하여 고품질 시뮬레이션을 수행했으며, Bayesian Optimization(BO)을 통해 작업 시간(takt time)을 획기적으로 단축하고 생산성을 향상시켰습니다. 
+
+__2023 한국CDE 동계학술대회__에서 연구의 가치를 인정받아 우수 포스터상을 수상하였습니다.
 
 ---
 
