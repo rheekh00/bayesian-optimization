@@ -5,7 +5,7 @@
 
 NVIDIA Omniverse Isaac Sim을 활용해 실제 서울대학교 313동 114호에 위치한 demo factory를 Digital Twin 환경에 구현하여 고품질 시뮬레이션을 수행했으며, Bayesian Optimization(BO)을 통해 작업 시간(takt time)을 획기적으로 단축하고 생산성을 향상시켰습니다. 
 
-__2023 한국CDE 동계학술대회__에서 연구의 가치를 인정받아 우수 포스터상을 수상하였습니다.
+**2023 한국CDE 동계학술대회**에서 연구의 가치를 인정받아 우수 포스터상을 수상하였습니다.
 
 ---
 
@@ -42,11 +42,7 @@ __2023 한국CDE 동계학술대회__에서 연구의 가치를 인정받아 우
   - Bayesian Optimization과의 통합을 통해 반복적 최적화 수행.
 
 ### Omniverse 사용법 문서화
-- NVIDIA Omniverse Isaac Sim 설치 및 사용법을 Notion에 정리해 팀원들과 공유했습니다.
-- 주요 내용:
-  1. **설치 가이드**: Omniverse Isaac Sim 설치 단계별 안내.
-  2. **시뮬레이션 구성**: Digital Twin 환경 설계 및 관리 방법.
-  3. **BO 통합**: Bayesian Optimization과 Omniverse를 연동하는 코드 및 워크플로우.
+- NVIDIA Omniverse Isaac Sim 설치 및 사용법을 [Notion Page](https://www.notion.so/2-c7212436bfb9467798d7dd30336552f7?pvs=4)에 정리해 팀원들과 공유했습니다.
 
 ---
 
