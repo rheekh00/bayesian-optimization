@@ -5,7 +5,7 @@
 
 NVIDIA Omniverse Isaac Sim을 활용해 실제 서울대학교 313동 114호에 위치한 demo factory를 Digital Twin 환경에 구현하여 고품질 시뮬레이션을 수행했으며, Bayesian Optimization(BO)을 통해 작업 시간(takt time)을 획기적으로 단축하고 생산성을 향상시켰습니다. 
 
-**2023 한국CDE 동계학술대회**에서 연구의 가치를 인정받아 우수 포스터상을 수상하였습니다.
+**2023 한국CDE 동계학술대회**에서 연구의 가치를 인정받아 [우수 포스터상](https://github.com/rheekh00/bayesian-optimization/blob/main/assets/certificate.jpg)을 수상하였습니다.
 
 ---
 ## 포스터
