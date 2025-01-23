@@ -9,7 +9,7 @@ NVIDIA Omniverse Isaac Sim을 활용해 실제 서울대학교 313동 114호에 
 
 ---
 ## 포스터
-![Image](https://github.com/user-attachments/assets/d31e166b-a5bf-4d72-8119-cdbcc0edf14f)
+![image](https://github.com/user-attachments/assets/e16276e9-fcd9-4a17-a0e3-907267194d90)
 
 
 ---
